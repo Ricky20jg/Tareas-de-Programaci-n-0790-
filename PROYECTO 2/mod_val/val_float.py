@@ -1,4 +1,3 @@
-# Segunda función: Validar un número de punto flotante
 def val_float(num, interval=None):
     # Comprobamos si el número es un flotante
     if str(type(num)) == float:
