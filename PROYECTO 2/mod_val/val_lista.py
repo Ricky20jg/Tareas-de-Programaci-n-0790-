@@ -1,4 +1,3 @@
-# Cuarta función: Validar una lista
 def val_lista(ls, length=None, option=None):
     # Comprobamos si el argumento es una lista
     if str(type(ls)) == list:
