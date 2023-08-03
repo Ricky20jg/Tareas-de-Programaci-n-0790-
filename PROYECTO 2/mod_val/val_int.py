@@ -1,4 +1,3 @@
-# Tercera función: Validar un número entero
 def val_int(num, interval=None):
     # Comprobamos si el número es un entero
     if str(type(num)) == int:
